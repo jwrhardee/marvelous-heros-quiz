@@ -26,5 +26,5 @@ if answer.upper() == "Y" :
   question2 = input ("who do you think is stronger A.thor or A.hulk \nA \nB" ) 
   if answer.upper() == "Y" :
     question3 = input ("who is your faviroit Spiderman A.tom B.andrew \nA \nB" )
-    if wait.upper()  == "Y": 
-      print 
+    if wait.upper() == "Y": 
+      print ("your marvel hero is "+Heros.upper)
